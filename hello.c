@@ -1,9 +1,9 @@
 /**
  * Author: Avery Monson
  *         amonson6@huskers.unl.edu
- * Date: 2022/08/25
+ * Date: 2022/08/29
  *
- * A simple hello world program in C
+ * Hack 1.0 in C
  *
  */
 #include <stdlib.h>
